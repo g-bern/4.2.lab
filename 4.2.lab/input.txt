@@ -1,0 +1,44 @@
+struct surname{
+	float abrakadabra;
+};
+struct name{
+	int first;
+	char* second[5];
+	bool* bbb;
+	surname sur;
+};
+int main(){
+	name alpha;
+	
+	surname beta;
+	
+	int a; int alpp;
+	alpp++;
+	
+	alpha.first++;
+	int* b;
+	
+	if(true) cout << 1;
+	
+	char c;
+	
+	char* d;
+	
+	bool e;
+	
+	bool* f;
+	
+	float g;
+	
+	float* h;
+	
+	int gamma[25];
+	gamma[2] = 5;
+	gamma[3] = 6;
+	
+	g++;
+	g++;
+	g+=1;
+	
+	int final;
+}
